@@ -4,9 +4,8 @@ seasonToSearch = "season4" # 'season1' is Jan-March 'season2' is Apr-Jun 'season
 year = "2018" # year 
 
 cookies = {
-    'sc_is_visitor_unique': 'rx12644867.1678819081.AD7353D805EB4F50CF68D93BA38DDC20.8.8.8.8.8.8.7.7.7',
-}
-
+    'sc_is_visitor_unique': 'rx12644867.1691945728.DD595E9F2C834F669C296050D901D4C1.2.2.2.2.2.2.2.2.2',
+}                           
 headers = {
     'Accept': 'application/json, text/plain, */*',
     'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8',
