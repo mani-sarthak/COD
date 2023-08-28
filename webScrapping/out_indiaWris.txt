@@ -1,0 +1,2 @@
+{'date': 'Mon, 28 Aug 2023 16:30:45 GMT', 'server': 'Apache', 'strict-transport-security': 'max-age=31536000', 'x-frame-options': 'SAMEORIGIN', 'location': '/wris/', 'x-content-type-options': 'nosniff', 'x-xss-protection': '1; mode=block', 'content-length': '0', 'connection': 'close'}
+

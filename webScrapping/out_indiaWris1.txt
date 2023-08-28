@@ -1,0 +1,22 @@
+{'date': 'Mon, 28 Aug 2023 16:32:13 GMT', 'server': 'Apache', 'strict-transport-security': 'max-age=31536000', 'x-frame-options': 'SAMEORIGIN', 'location': 'https://indiawris.gov.in/wris', 'content-length': '237', 'connection': 'close', 'content-type': 'text/html; charset=iso-8859-1'}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+ <head>
+  <title>
+   301 Moved Permanently
+  </title>
+ </head>
+ <body>
+  <h1>
+   Moved Permanently
+  </h1>
+  <p>
+   The document has moved
+   <a href="https://indiawris.gov.in/wris">
+    here
+   </a>
+   .
+  </p>
+ </body>
+</html>
+
