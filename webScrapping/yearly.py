@@ -125,7 +125,7 @@ def getStationsInDistrict(state_name, district, year, code):
         
 def getLatLong(station_id):
     
-    station_id = int(station_id)
+    # station_id = int(station_id)
     
     url = 'https://arc.indiawris.gov.in/server/rest/services/NWIC/GroundwaterLevel_Stations/MapServer/0/query'
 
@@ -194,31 +194,29 @@ def create_excel(data, year, state, district, loc, season = None):
     with pd.ExcelWriter(excel_file, engine="xlsxwriter") as writer:
         # print(df)
         df.to_excel(writer, sheet_name="Sheet1", index=False)
-    print("file written")
+    print("file written", loc)
         
-
+# print(getLatLong('CGWHYD0398'))
 
 if __name__ == "__main__":
     import os
     directory_path = "/Users/manisarthak/Desktop/CGWB/"
     os.makedirs(directory_path)
-    for year in range(2023, 2024):
+    for year in range(2023, 2000, -1):
         dp_year = directory_path + str(year) + '/'
         os.makedirs(dp_year)
         states = getStates()
         for state in states:
-            if state != 'Karnataka':
-                continue
+            # if state != 'Karnataka':
+            #     continue
             dp_state = dp_year + str(state) + '/'
             os.makedirs(dp_state)
             districts = getDistricts(state)
             for district in districts:
-                if district != 'Mandya':
-                    continue
+                # if district != 'Mandya':
+                #     continue
                 dp_district = dp_state + str(district) + '/'
                 os.makedirs(dp_district)
-                # data = addLatLong(getStationsInDistrict(state, district, year, 0))
-                # create_excel(data, year, state, district, dp_district)
                 for season in range(5):
                     data = getStationsInDistrict(state, district, year, season)
                     data = addLatLong(data)
