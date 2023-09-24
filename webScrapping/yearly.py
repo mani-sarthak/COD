@@ -42,7 +42,7 @@ def getStates():
     return states
 
 
-def getDistricts(state_name):
+def getDistricts(state_name, year):
     url = 'https://indiawris.gov.in/gwlbusinessdata'
 
     headers = {
@@ -67,7 +67,7 @@ def getDistricts(state_name):
     
     data = {
             "stnVal": {
-                "qry": f"select metadata.district_name,count(distinct(businessdata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = 'CGWB' and metadata.state_name = '{state_name}' and to_char(businessdata.date, 'yyyy-mm') between '2022-09' and '2023-09'  group by district_name"
+                "qry": f"select metadata.district_name,count(distinct(businessdata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = 'CGWB' and metadata.state_name = '{state_name}' and to_char(businessdata.date, 'yyyy') between '{year}' and '{year}'  group by district_name"
             }
         }
     
