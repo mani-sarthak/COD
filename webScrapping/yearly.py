@@ -5,7 +5,7 @@ import pandas as pd
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-def getStates():
+def getStates(year):
     url = 'https://indiawris.gov.in/gwlbusinessdata'
 
     headers = {
@@ -29,8 +29,7 @@ def getStates():
 
 
 
-
-    data = {"stnVal":{"qry":"select metadata.state_name, count(distinct(metadata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = \'CGWB\' and to_char(businessdata.date, \'yyyy-mm\') between \'2022-09\' and \'2023-09\'  group by metadata.state_name order by metadata.state_name"}}
+    data = {"stnVal":{"qry":f"select metadata.state_name, count(distinct(metadata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = \'CGWB\' and to_char(businessdata.date, \'yyyy-mm\') between \'{year}-01\' and \'{year}-12\'  group by metadata.state_name order by metadata.state_name"}}
 
     response = requests.post(url, json=data, headers=headers, verify=False)
 
@@ -73,6 +72,7 @@ def getDistricts(state_name, year):
     
     
     response = requests.post(url, json=data, headers=headers, verify=False)
+    print ("response asked !!")
     if response.status_code == 200:
         response = response.json()
         # print(response)
