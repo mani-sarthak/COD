@@ -72,7 +72,6 @@ def getDistricts(state_name, year):
     
     
     response = requests.post(url, json=data, headers=headers, verify=False)
-    print ("response asked !!")
     if response.status_code == 200:
         response = response.json()
         # print(response)
@@ -198,33 +197,38 @@ def create_excel(data, year, state, district, loc, season = None):
         
 # print(getLatLong('CGWHYD0398'))
 
-if __name__ == "__main__":
-    import os
-    directory_path = "/Users/manisarthak/Desktop/CGWB/"
-    os.makedirs(directory_path)
-    for year in range(2023, 2000, -1):
-        dp_year = directory_path + str(year) + '/'
-        os.makedirs(dp_year)
-        states = getStates()
-        for state in states:
-            # if state != 'Karnataka':
-            #     continue
-            dp_state = dp_year + str(state) + '/'
-            os.makedirs(dp_state)
-            districts = getDistricts(state)
-            for district in districts:
-                # if district != 'Mandya':
-                #     continue
-                dp_district = dp_state + str(district) + '/'
-                os.makedirs(dp_district)
-                for season in range(5):
-                    data = getStationsInDistrict(state, district, year, season)
-                    data = addLatLong(data)
-                    create_excel(data, year, state, district, dp_district, season)
+# if __name__ == "__main__":
+#     import os
+    # directory_path = "/Users/manisarthak/Desktop/CGWB/"
+    # os.makedirs(directory_path)
+    # for year in range(2023, 2000, -1):
+    #     dp_year = directory_path + str(year) + '/'
+    #     os.makedirs(dp_year)
+    #     states = getStates()
+    #     for state in states:
+    #         # if state != 'Karnataka':
+    #         #     continue
+    #         dp_state = dp_year + str(state) + '/'
+    #         os.makedirs(dp_state)
+    #         districts = getDistricts(state)
+    #         for district in districts:
+    #             # if district != 'Mandya':
+    #             #     continue
+    #             dp_district = dp_state + str(district) + '/'
+    #             os.makedirs(dp_district)
+    #             for season in range(5):
+    #                 data = getStationsInDistrict(state, district, year, season)
+    #                 data = addLatLong(data)
+    #                 create_excel(data, year, state, district, dp_district, season)
                     
                     
-                
-                
+# print(getStates(2010))
+# print(getDistricts('Rajasthan', 2010))
+# print(getStationsInDistrict('Rajasthan', 'Bhilwara', 2010, 0))
+# print('\n\n\n\n\n\n')
+# print(getStationsInDistrict('Rajasthan', 'Bhilwara', 2010, 1))
+            
+            
     
     
     
