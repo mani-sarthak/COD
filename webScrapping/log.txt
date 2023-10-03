@@ -112,3 +112,25 @@
 
 2016 Andaman & Nicobar North Middle Andaman 1 done
 error in writing csv file for district  North Middle Andaman  of state  Andaman & Nicobar
+2023-10-03 15:51:21 - Started processing year 2015
+2023-10-03 15:51:45 - Started processing year 2015
+2023-10-03 15:51:48 - Started processing state Andaman & Nicobar
+2023-10-03 15:51:53 - Started processing district North Middle Andaman
+2023-10-03 15:53:56 - Finished processing district North Middle Andaman
+2023-10-03 15:53:56 - Started processing district South Andaman
+2023-10-03 15:55:11 - Finished processing district South Andaman
+2023-10-03 15:55:11 - Finished processing state Andaman & Nicobar
+2023-10-03 15:55:11 - Started processing state Andhra Pradesh
+2023-10-03 15:55:18 - Started processing district Anantapur
+2023-10-03 15:59:30 - Finished processing district Anantapur
+2023-10-03 15:59:30 - Started processing district Chittoor
+2023-10-03 16:00:24 - Finished processing district Chittoor
+2023-10-03 16:00:24 - Started processing district Cuddapah
+2023-10-03 16:01:19 - Finished processing district Cuddapah
+2023-10-03 16:01:19 - Started processing district East Godavari
+2023-10-03 16:02:24 - Finished processing district East Godavari
+2023-10-03 16:02:24 - Started processing district Guntur
+2023-10-03 16:10:22 - Resuming from year 2015, state Andhra Pradesh, district Guntur
+2023-10-03 16:10:22 - Started processing year 2015
+2023-10-03 16:10:25 - Started processing state Andhra Pradesh
+2023-10-03 16:10:28 - Started processing district Guntur

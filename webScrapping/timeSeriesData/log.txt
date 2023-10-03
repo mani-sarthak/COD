@@ -38,3 +38,6 @@
 2023-10-01 13:08:54 - Started processing district Ramgarh of state Jharkhand
 2023-10-01 13:09:20 - Started processing district Guna of state Madhya Pradesh
 2023-10-01 13:09:53 - Started processing district Khandwa of state Madhya Pradesh
+2023-10-03 16:45:26 - Resuming from district Khandwa, state Madhya Pradesh
+2023-10-03 16:45:26 - Started processing district Guna of state Madhya Pradesh
+2023-10-03 16:45:26 - Started processing district Khandwa of state Madhya Pradesh

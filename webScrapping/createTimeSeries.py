@@ -12,7 +12,16 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 path = "/Users/manisarthak/Library/CloudStorage/OneDrive-IITDelhi/ACADEMICS/Semester5/COD/webScrapping/timeSeriesData/"
 
 
-
+def readFromExcel(state, district, year, season, directory_path = "/Users/manisarthak/Desktop/CGWB/"):
+    excel_path = directory_path + f"{year}/{state}/{district}/{district}_{state}_{year}_{season}.xlsx"
+    scam = []
+    try:
+        df = pd.read_excel(excel_path, header=None)
+        scam = df.values.tolist()[1:]
+    except Exception as e:
+        print("Error --- \n", year, state, district, season)
+        print(e)
+    return scam
 
 ## single district single year
 
@@ -27,11 +36,7 @@ def getYearlyDataForDistricts(year, state, district):
     data = dict()
     temp_data = []
     for season in range(1, 5):
-        scam = getStationsInDistrict(state, district, year, season)
-        # scam = addLatLong(scam)
-        # create_excel(scam, year, state, district, season)
-        
-        scam = addLatLong(scam)
+        scam = readFromExcel(state, district, year, season)
         print(year, state, district, season, 'done')
         # print(scam, end = "\n\n\n\n")
         temp_data.append(scam)

@@ -22,7 +22,7 @@ def log_timestamp(message):
 progress_file = "progress.txt"
 
 # Initialize variables to store progress information
-last_year = 2023
+last_year = 2015
 last_state = None
 last_district = None
 
@@ -46,7 +46,7 @@ for year in range(last_year, 2000, -1):
     if not os.path.exists(dp_year):
         os.makedirs(dp_year)
 
-    states = getStates()
+    states = getStates(year)
 
     # Start from the last state if available
     if last_state:
