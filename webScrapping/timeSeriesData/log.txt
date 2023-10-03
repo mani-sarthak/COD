@@ -1,0 +1,40 @@
+2023-09-28 19:41:59 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:04:36 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:09:58 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:09:59 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:15:07 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:15:11 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:21:39 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:21:43 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:27:39 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:27:43 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:33:09 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:33:14 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:39:13 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:39:17 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:44:31 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:44:35 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:50:30 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:50:34 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 20:56:32 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 20:56:36 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 21:01:50 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 21:01:54 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-09-28 21:07:15 - Started processing district North Middle Andaman of state Andaman & Nicobar
+2023-09-28 21:07:19 - Resuming from district North Middle Andaman, state Andaman & Nicobar
+2023-10-01 12:45:41 - Resuming from district , state 
+2023-10-01 12:49:04 - Started processing district Sirohi of state Rajasthan
+2023-10-01 12:51:19 - Resuming from district Sirohi, state Rajasthan
+2023-10-01 12:52:15 - Resuming from district Sirohi, state Rajasthan
+2023-10-01 12:54:42 - Started processing district Baran of state Rajasthan
+2023-10-01 12:55:55 - Resuming from district Baran, state Rajasthan
+2023-10-01 12:58:04 - Started processing district Sirohi of state Rajasthan
+2023-10-01 12:59:30 - Resuming from district Sirohi, state Rajasthan
+2023-10-01 13:02:13 - Started processing district Gaya of state Bihar
+2023-10-01 13:03:51 - Started processing district Araria of state Bihar
+2023-10-01 13:05:20 - Resuming from district Araria, state Bihar
+2023-10-01 13:06:36 - Resuming from district Araria, state Bihar
+2023-10-01 13:08:20 - Started processing district Dumka of state Jharkhand
+2023-10-01 13:08:54 - Started processing district Ramgarh of state Jharkhand
+2023-10-01 13:09:20 - Started processing district Guna of state Madhya Pradesh
+2023-10-01 13:09:53 - Started processing district Khandwa of state Madhya Pradesh
