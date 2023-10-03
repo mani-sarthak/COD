@@ -134,3 +134,795 @@ error in writing csv file for district  North Middle Andaman  of state  Andaman 
 2023-10-03 16:10:22 - Started processing year 2015
 2023-10-03 16:10:25 - Started processing state Andhra Pradesh
 2023-10-03 16:10:28 - Started processing district Guntur
+2023-10-03 17:47:33 - Resuming from year 2015, state Andhra Pradesh, district Guntur
+2023-10-03 17:47:33 - Started processing year 2015
+2023-10-03 17:47:36 - Started processing state Andhra Pradesh
+2023-10-03 17:47:38 - Started processing district Guntur
+2023-10-03 17:48:33 - Finished processing district Guntur
+2023-10-03 17:48:33 - Started processing district Krishna
+2023-10-03 17:49:10 - Finished processing district Krishna
+2023-10-03 17:49:10 - Started processing district Kurnool
+2023-10-03 17:49:38 - Finished processing district Kurnool
+2023-10-03 17:49:38 - Started processing district Nellore
+2023-10-03 17:50:02 - Finished processing district Nellore
+2023-10-03 17:50:02 - Started processing district Prakasam
+2023-10-03 17:50:35 - Finished processing district Prakasam
+2023-10-03 17:50:35 - Started processing district Srikakulam
+2023-10-03 17:50:50 - Finished processing district Srikakulam
+2023-10-03 17:50:50 - Started processing district Visakhapatnam
+2023-10-03 17:51:03 - Finished processing district Visakhapatnam
+2023-10-03 17:51:03 - Started processing district Vizianagaram
+2023-10-03 17:51:15 - Finished processing district Vizianagaram
+2023-10-03 17:51:15 - Started processing district West Godavari
+2023-10-03 17:51:49 - Finished processing district West Godavari
+2023-10-03 17:51:49 - Finished processing state Andhra Pradesh
+2023-10-03 17:51:49 - Started processing state Arunachal Pradesh
+2023-10-03 17:51:50 - Started processing district Changlang
+2023-10-03 17:51:55 - Finished processing district Changlang
+2023-10-03 17:51:55 - Started processing district East Siang
+2023-10-03 17:52:00 - Finished processing district East Siang
+2023-10-03 17:52:00 - Started processing district Lohit
+2023-10-03 17:52:04 - Finished processing district Lohit
+2023-10-03 17:52:04 - Started processing district Tirap
+2023-10-03 17:52:09 - Finished processing district Tirap
+2023-10-03 17:52:09 - Finished processing state Arunachal Pradesh
+2023-10-03 17:52:09 - Started processing state Assam
+2023-10-03 17:52:10 - Started processing district Barpeta
+2023-10-03 17:52:15 - Finished processing district Barpeta
+2023-10-03 17:52:15 - Started processing district Bongaigaon
+2023-10-03 17:52:21 - Finished processing district Bongaigaon
+2023-10-03 17:52:21 - Started processing district Cachar
+2023-10-03 17:52:29 - Finished processing district Cachar
+2023-10-03 17:52:29 - Started processing district Darrang
+2023-10-03 17:52:41 - Finished processing district Darrang
+2023-10-03 17:52:41 - Started processing district Dhemaji
+2023-10-03 17:52:46 - Finished processing district Dhemaji
+2023-10-03 17:52:46 - Started processing district Dhubri
+2023-10-03 17:52:55 - Finished processing district Dhubri
+2023-10-03 17:52:55 - Started processing district Dibrugarh
+2023-10-03 17:53:05 - Finished processing district Dibrugarh
+2023-10-03 17:53:05 - Started processing district Goalpara
+2023-10-03 17:53:12 - Finished processing district Goalpara
+2023-10-03 17:53:12 - Started processing district Golaghat
+2023-10-03 17:53:16 - Finished processing district Golaghat
+2023-10-03 17:53:16 - Started processing district Hailakandi
+2023-10-03 17:53:21 - Finished processing district Hailakandi
+2023-10-03 17:53:21 - Started processing district Jorhat
+2023-10-03 17:53:26 - Finished processing district Jorhat
+2023-10-03 17:53:26 - Started processing district Kamrup
+2023-10-03 17:53:44 - Finished processing district Kamrup
+2023-10-03 17:53:44 - Started processing district Karbi Anglong
+2023-10-03 17:53:58 - Finished processing district Karbi Anglong
+2023-10-03 17:53:58 - Started processing district Karimganj
+2023-10-03 17:54:04 - Finished processing district Karimganj
+2023-10-03 17:54:04 - Started processing district Kokrajhar
+2023-10-03 17:54:11 - Finished processing district Kokrajhar
+2023-10-03 17:54:11 - Started processing district Lakhimpur
+2023-10-03 17:54:27 - Finished processing district Lakhimpur
+2023-10-03 17:54:27 - Started processing district Marigaon
+2023-10-03 17:54:32 - Finished processing district Marigaon
+2023-10-03 17:54:32 - Started processing district Nagaon
+2023-10-03 17:54:48 - Finished processing district Nagaon
+2023-10-03 17:54:48 - Started processing district Nalbari
+2023-10-03 17:54:53 - Finished processing district Nalbari
+2023-10-03 17:54:53 - Started processing district Sivsagar
+2023-10-03 17:55:00 - Finished processing district Sivsagar
+2023-10-03 17:55:00 - Started processing district Sonitpur
+2023-10-03 17:55:12 - Finished processing district Sonitpur
+2023-10-03 17:55:12 - Started processing district Tinsukia
+2023-10-03 17:55:21 - Finished processing district Tinsukia
+2023-10-03 17:55:21 - Finished processing state Assam
+2023-10-03 17:55:21 - Started processing state Bihar
+2023-10-03 17:55:24 - Started processing district Araria
+2023-10-03 17:55:31 - Finished processing district Araria
+2023-10-03 17:55:31 - Started processing district Aurangabad
+2023-10-03 17:55:46 - Finished processing district Aurangabad
+2023-10-03 17:55:46 - Started processing district Banka
+2023-10-03 17:56:02 - Finished processing district Banka
+2023-10-03 17:56:02 - Started processing district Begusarai
+2023-10-03 17:56:59 - Finished processing district Begusarai
+2023-10-03 17:56:59 - Started processing district Bhagalpur
+2023-10-03 17:58:06 - Finished processing district Bhagalpur
+2023-10-03 17:58:06 - Started processing district Bhojpur
+2023-10-03 17:58:29 - Finished processing district Bhojpur
+2023-10-03 17:58:29 - Started processing district Buxar
+2023-10-03 17:58:46 - Finished processing district Buxar
+2023-10-03 17:58:46 - Started processing district Darbhanga
+2023-10-03 17:58:57 - Finished processing district Darbhanga
+2023-10-03 17:58:57 - Started processing district Gaya
+2023-10-03 17:59:12 - Finished processing district Gaya
+2023-10-03 17:59:12 - Started processing district Gopalganj
+2023-10-03 17:59:40 - Finished processing district Gopalganj
+2023-10-03 17:59:40 - Started processing district Jamui
+2023-10-03 17:59:58 - Finished processing district Jamui
+2023-10-03 17:59:58 - Started processing district Jehanabad
+2023-10-03 18:00:11 - Finished processing district Jehanabad
+2023-10-03 18:00:11 - Started processing district Kaimur
+2023-10-03 18:00:21 - Finished processing district Kaimur
+2023-10-03 18:00:21 - Started processing district Katihar
+2023-10-03 18:00:34 - Finished processing district Katihar
+2023-10-03 18:00:34 - Started processing district Khagaria
+2023-10-03 18:00:47 - Finished processing district Khagaria
+2023-10-03 18:00:47 - Started processing district Kishanganj
+2023-10-03 18:00:56 - Finished processing district Kishanganj
+2023-10-03 18:00:56 - Started processing district Lakhisarai
+2023-10-03 18:01:04 - Finished processing district Lakhisarai
+2023-10-03 18:01:04 - Started processing district Madhepura
+2023-10-03 18:01:18 - Finished processing district Madhepura
+2023-10-03 18:01:18 - Started processing district Madhubani
+2023-10-03 18:01:38 - Finished processing district Madhubani
+2023-10-03 18:01:38 - Started processing district Munger
+2023-10-03 18:01:47 - Finished processing district Munger
+2023-10-03 18:01:47 - Started processing district Muzaffarpur
+2023-10-03 18:02:09 - Finished processing district Muzaffarpur
+2023-10-03 18:02:09 - Started processing district Nalanda
+2023-10-03 18:02:34 - Finished processing district Nalanda
+2023-10-03 18:02:34 - Started processing district Nawada
+2023-10-03 18:02:45 - Finished processing district Nawada
+2023-10-03 18:02:45 - Started processing district Pashchim Champaran
+2023-10-03 18:02:58 - Finished processing district Pashchim Champaran
+2023-10-03 18:02:58 - Started processing district Patna
+2023-10-03 18:03:23 - Finished processing district Patna
+2023-10-03 18:03:23 - Started processing district Purba Champaran
+2023-10-03 18:03:47 - Finished processing district Purba Champaran
+2023-10-03 18:03:47 - Started processing district Purnia
+2023-10-03 18:04:02 - Finished processing district Purnia
+2023-10-03 18:04:02 - Started processing district Rohtas
+2023-10-03 18:04:17 - Finished processing district Rohtas
+2023-10-03 18:04:17 - Started processing district Saharsa
+2023-10-03 18:04:32 - Finished processing district Saharsa
+2023-10-03 18:04:32 - Started processing district Samastipur
+2023-10-03 18:04:47 - Finished processing district Samastipur
+2023-10-03 18:04:47 - Started processing district Saran
+2023-10-03 18:05:09 - Finished processing district Saran
+2023-10-03 18:05:09 - Started processing district Sheikhpura
+2023-10-03 18:05:17 - Finished processing district Sheikhpura
+2023-10-03 18:05:17 - Started processing district Sheohar
+2023-10-03 18:05:24 - Finished processing district Sheohar
+2023-10-03 18:05:24 - Started processing district Sitamarhi
+2023-10-03 18:05:37 - Finished processing district Sitamarhi
+2023-10-03 18:05:37 - Started processing district Siwan
+2023-10-03 18:05:52 - Finished processing district Siwan
+2023-10-03 18:05:52 - Started processing district Supaul
+2023-10-03 18:06:11 - Finished processing district Supaul
+2023-10-03 18:06:11 - Started processing district Vaishali
+2023-10-03 18:06:26 - Finished processing district Vaishali
+2023-10-03 18:06:26 - Finished processing state Bihar
+2023-10-03 18:06:26 - Started processing state Chandigarh
+2023-10-03 18:06:26 - Started processing district Chandigarh
+2023-10-03 18:06:47 - Finished processing district Chandigarh
+2023-10-03 18:06:47 - Finished processing state Chandigarh
+2023-10-03 18:06:47 - Started processing state Chhattisgarh
+2023-10-03 18:06:50 - Started processing district Bastar
+2023-10-03 18:07:10 - Finished processing district Bastar
+2023-10-03 18:07:10 - Started processing district Bilaspur
+2023-10-03 18:07:57 - Finished processing district Bilaspur
+2023-10-03 18:07:57 - Started processing district Dantewada
+2023-10-03 18:08:05 - Finished processing district Dantewada
+2023-10-03 18:08:05 - Started processing district Dhamtari
+2023-10-03 18:08:28 - Finished processing district Dhamtari
+2023-10-03 18:08:28 - Started processing district Durg
+2023-10-03 18:09:28 - Finished processing district Durg
+2023-10-03 18:09:28 - Started processing district Gaurella Pendra Marwahi
+2023-10-03 18:09:43 - Finished processing district Gaurella Pendra Marwahi
+2023-10-03 18:09:43 - Started processing district Janjgir - Champa
+2023-10-03 18:10:16 - Finished processing district Janjgir - Champa
+2023-10-03 18:10:16 - Started processing district Jashpur
+2023-10-03 18:10:50 - Finished processing district Jashpur
+2023-10-03 18:10:50 - Started processing district Kabirdham
+2023-10-03 18:11:05 - Finished processing district Kabirdham
+2023-10-03 18:11:05 - Started processing district Kanker
+2023-10-03 18:11:17 - Finished processing district Kanker
+2023-10-03 18:11:17 - Started processing district Korba
+2023-10-03 18:12:04 - Finished processing district Korba
+2023-10-03 18:12:04 - Started processing district Koriya
+2023-10-03 18:12:27 - Finished processing district Koriya
+2023-10-03 18:12:27 - Started processing district Mahasamund
+2023-10-03 18:12:52 - Finished processing district Mahasamund
+2023-10-03 18:12:52 - Started processing district Raigarh
+2023-10-03 18:13:45 - Finished processing district Raigarh
+2023-10-03 18:13:45 - Started processing district Raipur
+2023-10-03 18:14:43 - Finished processing district Raipur
+2023-10-03 18:14:43 - Started processing district Rajnandgaon
+2023-10-03 18:15:20 - Finished processing district Rajnandgaon
+2023-10-03 18:15:20 - Started processing district Surguja
+2023-10-03 18:16:11 - Finished processing district Surguja
+2023-10-03 18:16:11 - Finished processing state Chhattisgarh
+2023-10-03 18:16:11 - Started processing state Dadra & Nagar Haveli
+2023-10-03 18:16:12 - Started processing district Dadra And Nagar Haveli
+2023-10-03 18:16:26 - Finished processing district Dadra And Nagar Haveli
+2023-10-03 18:16:26 - Finished processing state Dadra & Nagar Haveli
+2023-10-03 18:16:26 - Started processing state Delhi
+2023-10-03 18:16:26 - Started processing district East
+2023-10-03 18:16:35 - Finished processing district East
+2023-10-03 18:16:35 - Started processing district New Delhi
+2023-10-03 18:16:45 - Finished processing district New Delhi
+2023-10-03 18:16:45 - Started processing district North East
+2023-10-03 18:16:49 - Finished processing district North East
+2023-10-03 18:16:49 - Started processing district North West
+2023-10-03 18:18:23 - Finished processing district North West
+2023-10-03 18:18:23 - Started processing district South
+2023-10-03 18:18:36 - Finished processing district South
+2023-10-03 18:18:36 - Started processing district South West
+2023-10-03 18:18:55 - Finished processing district South West
+2023-10-03 18:18:55 - Started processing district West
+2023-10-03 18:19:03 - Finished processing district West
+2023-10-03 18:19:03 - Finished processing state Delhi
+2023-10-03 18:19:03 - Started processing state Goa
+2023-10-03 18:19:04 - Started processing district North Goa
+2023-10-03 18:19:35 - Finished processing district North Goa
+2023-10-03 18:19:35 - Started processing district South Goa
+2023-10-03 18:20:07 - Finished processing district South Goa
+2023-10-03 18:20:07 - Finished processing state Goa
+2023-10-03 18:20:07 - Started processing state Gujarat
+2023-10-03 18:20:09 - Started processing district Ahmedabad
+2023-10-03 18:20:27 - Finished processing district Ahmedabad
+2023-10-03 18:20:27 - Started processing district Amreli
+2023-10-03 18:21:04 - Finished processing district Amreli
+2023-10-03 18:21:04 - Started processing district Anand
+2023-10-03 18:21:22 - Finished processing district Anand
+2023-10-03 18:21:22 - Started processing district Banaskantha
+2023-10-03 18:21:51 - Finished processing district Banaskantha
+2023-10-03 18:21:51 - Started processing district Bharuch
+2023-10-03 18:22:17 - Finished processing district Bharuch
+2023-10-03 18:22:17 - Started processing district Bhavnagar
+2023-10-03 18:23:11 - Finished processing district Bhavnagar
+2023-10-03 18:23:11 - Started processing district Daman
+2023-10-03 18:23:21 - Finished processing district Daman
+2023-10-03 18:23:21 - Started processing district Dang
+2023-10-03 18:23:36 - Finished processing district Dang
+2023-10-03 18:23:36 - Started processing district Diu
+2023-10-03 18:23:42 - Finished processing district Diu
+2023-10-03 18:23:42 - Started processing district Dohad
+2023-10-03 18:23:59 - Finished processing district Dohad
+2023-10-03 18:23:59 - Started processing district Gandhinagar
+2023-10-03 18:24:16 - Finished processing district Gandhinagar
+2023-10-03 18:24:16 - Started processing district Jamnagar
+2023-10-03 18:24:50 - Finished processing district Jamnagar
+2023-10-03 18:24:50 - Started processing district Junagadh
+2023-10-03 18:25:33 - Finished processing district Junagadh
+2023-10-03 18:25:33 - Started processing district Kachchh
+2023-10-03 18:26:07 - Finished processing district Kachchh
+2023-10-03 18:26:07 - Started processing district Kheda
+2023-10-03 18:26:24 - Finished processing district Kheda
+2023-10-03 18:26:24 - Started processing district Mahesana
+2023-10-03 18:26:54 - Finished processing district Mahesana
+2023-10-03 18:26:54 - Started processing district Narmada
+2023-10-03 18:27:09 - Finished processing district Narmada
+2023-10-03 18:27:09 - Started processing district Navsari
+2023-10-03 18:27:25 - Finished processing district Navsari
+2023-10-03 18:27:25 - Started processing district Panchmahals
+2023-10-03 18:27:43 - Finished processing district Panchmahals
+2023-10-03 18:27:43 - Started processing district Patan
+2023-10-03 18:27:55 - Finished processing district Patan
+2023-10-03 18:27:55 - Started processing district Porbandar
+2023-10-03 18:28:14 - Finished processing district Porbandar
+2023-10-03 18:28:14 - Started processing district Rajkot
+2023-10-03 18:28:51 - Finished processing district Rajkot
+2023-10-03 18:28:51 - Started processing district Sabarkantha
+2023-10-03 18:29:23 - Finished processing district Sabarkantha
+2023-10-03 18:29:23 - Started processing district Surat
+2023-10-03 18:29:58 - Finished processing district Surat
+2023-10-03 18:29:58 - Started processing district Surendranagar
+2023-10-03 18:30:28 - Finished processing district Surendranagar
+2023-10-03 18:30:28 - Started processing district Vadodara
+2023-10-03 18:31:06 - Finished processing district Vadodara
+2023-10-03 18:31:06 - Started processing district Valsad
+2023-10-03 18:31:18 - Finished processing district Valsad
+2023-10-03 18:31:18 - Finished processing state Gujarat
+2023-10-03 18:31:18 - Started processing state Haryana
+2023-10-03 18:31:21 - Started processing district Ambala
+2023-10-03 18:31:45 - Finished processing district Ambala
+2023-10-03 18:31:45 - Started processing district Bhiwani
+2023-10-03 18:32:07 - Finished processing district Bhiwani
+2023-10-03 18:32:07 - Started processing district Charkhi Dadri
+2023-10-03 18:32:16 - Finished processing district Charkhi Dadri
+2023-10-03 18:32:16 - Started processing district Faridabad
+2023-10-03 18:32:24 - Finished processing district Faridabad
+2023-10-03 18:32:24 - Started processing district Fatehabad
+2023-10-03 18:32:40 - Finished processing district Fatehabad
+2023-10-03 18:32:40 - Started processing district Gurgaon
+2023-10-03 18:32:56 - Finished processing district Gurgaon
+2023-10-03 18:32:56 - Started processing district Hisar
+2023-10-03 21:14:50 - Resuming from year 2015, state Haryana, district Hisar
+2023-10-03 21:14:50 - Started processing year 2015
+2023-10-03 21:14:56 - Resuming from year 2015, state Haryana, district Hisar
+2023-10-03 21:14:56 - Started processing year 2015
+2023-10-03 21:15:12 - Resuming from year 2015, state Haryana, district Hisar
+2023-10-03 21:15:12 - Started processing year 2015
+2023-10-03 21:20:47 - Resuming from year 2015, state Haryana, district Hisar
+2023-10-03 21:20:47 - Started processing year 2015
+2023-10-03 21:20:50 - Started processing state Haryana
+2023-10-03 21:20:53 - Started processing district Hisar
+2023-10-03 21:21:23 - Finished processing district Hisar
+2023-10-03 21:21:23 - Started processing district Jhajjar
+2023-10-03 21:21:39 - Finished processing district Jhajjar
+2023-10-03 21:21:39 - Started processing district Jind
+2023-10-03 21:22:07 - Finished processing district Jind
+2023-10-03 21:22:07 - Started processing district Kaithal
+2023-10-03 21:22:30 - Finished processing district Kaithal
+2023-10-03 21:22:30 - Started processing district Karnal
+2023-10-03 21:23:05 - Finished processing district Karnal
+2023-10-03 21:23:05 - Started processing district Kurukshetra
+2023-10-03 21:23:31 - Finished processing district Kurukshetra
+2023-10-03 21:23:31 - Started processing district Mahendragarh
+2023-10-03 21:23:42 - Finished processing district Mahendragarh
+2023-10-03 21:23:42 - Started processing district Nuh
+2023-10-03 21:23:55 - Finished processing district Nuh
+2023-10-03 21:23:55 - Started processing district Palwal
+2023-10-03 21:24:11 - Finished processing district Palwal
+2023-10-03 21:24:11 - Started processing district Panchkula
+2023-10-03 21:24:27 - Finished processing district Panchkula
+2023-10-03 21:24:27 - Started processing district Panipat
+2023-10-03 21:24:46 - Finished processing district Panipat
+2023-10-03 21:24:46 - Started processing district Rewari
+2023-10-03 21:25:01 - Finished processing district Rewari
+2023-10-03 21:25:01 - Started processing district Rohtak
+2023-10-03 21:25:19 - Finished processing district Rohtak
+2023-10-03 21:25:19 - Started processing district Sirsa
+2023-10-03 21:25:44 - Finished processing district Sirsa
+2023-10-03 21:25:44 - Started processing district Sonipat
+2023-10-03 21:26:19 - Finished processing district Sonipat
+2023-10-03 21:26:19 - Started processing district Yamunanagar
+2023-10-03 21:26:36 - Finished processing district Yamunanagar
+2023-10-03 21:26:36 - Finished processing state Haryana
+2023-10-03 21:26:36 - Started processing state Himachal Pradesh
+2023-10-03 21:26:37 - Started processing district Hamirpur
+2023-10-03 21:26:43 - Finished processing district Hamirpur
+2023-10-03 21:26:43 - Started processing district Kangra
+2023-10-03 21:27:10 - Finished processing district Kangra
+2023-10-03 21:27:10 - Started processing district Kullu
+2023-10-03 21:27:15 - Finished processing district Kullu
+2023-10-03 21:27:15 - Started processing district Mandi
+2023-10-03 21:27:26 - Finished processing district Mandi
+2023-10-03 21:27:26 - Started processing district Sirmaur
+2023-10-03 21:27:41 - Finished processing district Sirmaur
+2023-10-03 21:27:41 - Started processing district Solan
+2023-10-03 21:27:55 - Finished processing district Solan
+2023-10-03 21:27:55 - Started processing district Una
+2023-10-03 21:28:29 - Finished processing district Una
+2023-10-03 21:28:29 - Finished processing state Himachal Pradesh
+2023-10-03 21:28:29 - Started processing state Jammu & Kashmir
+2023-10-03 21:28:30 - Started processing district Anantnag
+2023-10-03 21:28:34 - Finished processing district Anantnag
+2023-10-03 21:28:34 - Started processing district Bandipora
+2023-10-03 21:28:38 - Finished processing district Bandipora
+2023-10-03 21:28:38 - Started processing district Baramula
+2023-10-03 21:28:47 - Finished processing district Baramula
+2023-10-03 21:28:47 - Started processing district Jammu
+2023-10-03 21:30:35 - Finished processing district Jammu
+2023-10-03 21:30:35 - Started processing district Kathua
+2023-10-03 21:31:34 - Finished processing district Kathua
+2023-10-03 21:31:34 - Started processing district Kupwara
+2023-10-03 21:31:47 - Finished processing district Kupwara
+2023-10-03 21:31:47 - Started processing district Pulwama
+2023-10-03 21:31:53 - Finished processing district Pulwama
+2023-10-03 21:31:53 - Started processing district Rajauri
+2023-10-03 21:32:31 - Finished processing district Rajauri
+2023-10-03 21:32:31 - Started processing district Reasi
+2023-10-03 21:32:53 - Finished processing district Reasi
+2023-10-03 21:32:53 - Started processing district Srinagar
+2023-10-03 21:32:59 - Finished processing district Srinagar
+2023-10-03 21:32:59 - Started processing district Udhampur
+2023-10-03 21:34:10 - Finished processing district Udhampur
+2023-10-03 21:34:10 - Finished processing state Jammu & Kashmir
+2023-10-03 21:34:10 - Started processing state Jharkhand
+2023-10-03 21:34:12 - Started processing district Bokaro
+2023-10-03 21:34:31 - Finished processing district Bokaro
+2023-10-03 21:34:31 - Started processing district Chatra
+2023-10-03 21:34:54 - Finished processing district Chatra
+2023-10-03 21:34:54 - Started processing district Deoghar
+2023-10-03 21:35:03 - Finished processing district Deoghar
+2023-10-03 21:35:03 - Started processing district Dhanbad
+2023-10-03 21:35:17 - Finished processing district Dhanbad
+2023-10-03 21:35:17 - Started processing district Dumka
+2023-10-03 21:35:51 - Finished processing district Dumka
+2023-10-03 21:35:51 - Started processing district Garhwa
+2023-10-03 21:36:02 - Finished processing district Garhwa
+2023-10-03 21:36:02 - Started processing district Giridih
+2023-10-03 21:39:17 - Resuming from year 2015, state Jharkhand, district Giridih
+2023-10-03 21:39:17 - Started processing year 2015
+2023-10-03 21:39:44 - Started processing state Jharkhand
+2023-10-03 21:39:59 - Started processing district Giridih
+2023-10-03 21:41:56 - Finished processing district Giridih
+2023-10-03 21:41:56 - Started processing district Godda
+2023-10-03 21:42:31 - Finished processing district Godda
+2023-10-03 21:42:31 - Started processing district Gumla
+2023-10-03 21:43:18 - Finished processing district Gumla
+2023-10-03 21:43:18 - Started processing district Hazaribag
+2023-10-03 21:43:57 - Finished processing district Hazaribag
+2023-10-03 21:43:57 - Started processing district Kodarma
+2023-10-03 21:44:13 - Finished processing district Kodarma
+2023-10-03 21:44:13 - Started processing district Lohardaga
+2023-10-03 21:44:34 - Finished processing district Lohardaga
+2023-10-03 21:44:34 - Started processing district Pakur
+2023-10-03 21:45:07 - Finished processing district Pakur
+2023-10-03 21:45:07 - Started processing district Palamau
+2023-10-03 21:45:42 - Finished processing district Palamau
+2023-10-03 21:45:42 - Started processing district Pashchimi Singhbhum
+2023-10-03 21:46:24 - Finished processing district Pashchimi Singhbhum
+2023-10-03 21:46:24 - Started processing district Purbi Singhbhum
+2023-10-03 21:46:44 - Finished processing district Purbi Singhbhum
+2023-10-03 21:46:44 - Started processing district Ranchi
+2023-10-03 21:47:37 - Finished processing district Ranchi
+2023-10-03 21:47:37 - Started processing district Sahebganj
+2023-10-03 21:48:01 - Finished processing district Sahebganj
+2023-10-03 21:48:01 - Finished processing state Jharkhand
+2023-10-03 21:48:01 - Started processing state Karnataka
+2023-10-03 21:48:09 - Started processing district Bagalkot
+2023-10-03 21:49:56 - Finished processing district Bagalkot
+2023-10-03 21:49:56 - Started processing district Bangalore Rural
+2023-10-03 21:50:59 - Finished processing district Bangalore Rural
+2023-10-03 21:50:59 - Started processing district Bangalore Urban
+2023-10-03 21:51:49 - Finished processing district Bangalore Urban
+2023-10-03 21:51:49 - Started processing district Belgaum
+2023-10-03 21:53:05 - Finished processing district Belgaum
+2023-10-03 21:53:05 - Started processing district Bellary
+2023-10-03 21:53:37 - Finished processing district Bellary
+2023-10-03 21:53:37 - Started processing district Bidar
+2023-10-03 21:54:15 - Finished processing district Bidar
+2023-10-03 21:54:15 - Started processing district Bijapur
+2023-10-03 21:55:24 - Finished processing district Bijapur
+2023-10-03 21:55:24 - Started processing district Chamarajanagar
+2023-10-03 21:55:48 - Finished processing district Chamarajanagar
+2023-10-03 21:55:48 - Started processing district Chikmagalur
+2023-10-03 21:56:58 - Finished processing district Chikmagalur
+2023-10-03 21:56:58 - Started processing district Chitradurga
+2023-10-03 21:57:34 - Finished processing district Chitradurga
+2023-10-03 21:57:34 - Started processing district Dakshin Kannada
+2023-10-03 21:58:55 - Finished processing district Dakshin Kannada
+2023-10-03 21:58:55 - Started processing district Davanagere
+2023-10-03 21:59:46 - Finished processing district Davanagere
+2023-10-03 21:59:46 - Started processing district Dharwad
+2023-10-03 22:00:10 - Finished processing district Dharwad
+2023-10-03 22:00:10 - Started processing district Gadag
+2023-10-03 22:00:34 - Finished processing district Gadag
+2023-10-03 22:00:34 - Started processing district Hassan
+2023-10-03 22:02:07 - Finished processing district Hassan
+2023-10-03 22:02:07 - Started processing district Haveri
+2023-10-03 22:02:46 - Finished processing district Haveri
+2023-10-03 22:02:46 - Started processing district Kalaburagi
+2023-10-03 22:04:12 - Finished processing district Kalaburagi
+2023-10-03 22:04:12 - Started processing district Kodagu
+2023-10-03 22:05:09 - Finished processing district Kodagu
+2023-10-03 22:05:09 - Started processing district Kolar
+2023-10-03 22:05:50 - Finished processing district Kolar
+2023-10-03 22:05:50 - Started processing district Koppal
+2023-10-03 22:06:21 - Finished processing district Koppal
+2023-10-03 22:06:21 - Started processing district Mandya
+2023-10-03 22:07:11 - Finished processing district Mandya
+2023-10-03 22:07:11 - Started processing district Mysore
+2023-10-03 22:08:00 - Finished processing district Mysore
+2023-10-03 22:08:00 - Started processing district Raichur
+2023-10-03 22:08:55 - Finished processing district Raichur
+2023-10-03 22:08:55 - Started processing district Shimoga
+2023-10-03 22:10:04 - Finished processing district Shimoga
+2023-10-03 22:10:04 - Started processing district Tumkur
+2023-10-03 22:10:59 - Finished processing district Tumkur
+2023-10-03 22:10:59 - Started processing district Udupi
+2023-10-03 22:12:16 - Finished processing district Udupi
+2023-10-03 22:12:16 - Started processing district Uttara Kannada
+2023-10-03 22:13:38 - Finished processing district Uttara Kannada
+2023-10-03 22:13:38 - Finished processing state Karnataka
+2023-10-03 22:13:38 - Started processing state Kerala
+2023-10-03 22:13:41 - Started processing district Alappuzha
+2023-10-03 22:15:09 - Finished processing district Alappuzha
+2023-10-03 22:15:09 - Started processing district Ernakulam
+2023-10-03 22:16:58 - Finished processing district Ernakulam
+2023-10-03 22:16:58 - Started processing district Idukki
+2023-10-03 22:18:54 - Finished processing district Idukki
+2023-10-03 22:18:54 - Started processing district Kannur
+2023-10-03 22:20:23 - Finished processing district Kannur
+2023-10-03 22:20:23 - Started processing district Kasaragod
+2023-10-03 22:21:55 - Finished processing district Kasaragod
+2023-10-03 22:21:55 - Started processing district Kollam
+2023-10-03 22:23:23 - Finished processing district Kollam
+2023-10-03 22:23:23 - Started processing district Kottayam
+2023-10-03 22:24:50 - Finished processing district Kottayam
+2023-10-03 22:24:50 - Started processing district Kozhikode
+2023-10-03 22:25:58 - Finished processing district Kozhikode
+2023-10-03 22:25:58 - Started processing district Malappuram
+2023-10-03 22:27:35 - Finished processing district Malappuram
+2023-10-03 22:27:35 - Started processing district Palakkad
+2023-10-03 22:29:50 - Finished processing district Palakkad
+2023-10-03 22:29:50 - Started processing district Pathanamthitta
+2023-10-03 22:31:03 - Finished processing district Pathanamthitta
+2023-10-03 22:31:03 - Started processing district Thiruvananthapuram
+2023-10-03 22:32:40 - Finished processing district Thiruvananthapuram
+2023-10-03 22:32:40 - Started processing district Thrissur
+2023-10-03 22:33:08 - Finished processing district Thrissur
+2023-10-03 22:33:08 - Started processing district Trichur
+2023-10-03 22:34:30 - Finished processing district Trichur
+2023-10-03 22:34:30 - Started processing district Wayanad
+2023-10-03 22:36:33 - Finished processing district Wayanad
+2023-10-03 22:36:33 - Finished processing state Kerala
+2023-10-03 22:36:33 - Started processing state Madhya Pradesh
+2023-10-03 22:36:35 - Started processing district Agar Malwa
+2023-10-03 22:37:09 - Finished processing district Agar Malwa
+2023-10-03 22:37:09 - Started processing district Alirajpur
+2023-10-03 22:37:39 - Finished processing district Alirajpur
+2023-10-03 22:37:39 - Started processing district Anuppur
+2023-10-03 22:38:00 - Finished processing district Anuppur
+2023-10-03 22:38:00 - Started processing district Ashok Nagar
+2023-10-03 22:38:18 - Finished processing district Ashok Nagar
+2023-10-03 22:38:18 - Started processing district Balaghat
+2023-10-03 22:38:58 - Finished processing district Balaghat
+2023-10-03 22:38:58 - Started processing district Barwani
+2023-10-03 22:39:15 - Finished processing district Barwani
+2023-10-03 22:39:15 - Started processing district Betul
+2023-10-03 22:39:49 - Finished processing district Betul
+2023-10-03 22:39:49 - Started processing district Bhind
+2023-10-03 22:40:03 - Finished processing district Bhind
+2023-10-03 22:40:03 - Started processing district Bhopal
+2023-10-03 22:40:22 - Finished processing district Bhopal
+2023-10-03 22:40:22 - Started processing district Burhanpur
+2023-10-03 22:40:38 - Finished processing district Burhanpur
+2023-10-03 22:40:38 - Started processing district Chhatarpur
+2023-10-03 22:41:03 - Finished processing district Chhatarpur
+2023-10-03 22:41:03 - Started processing district Chhindwara
+2023-10-03 22:41:34 - Finished processing district Chhindwara
+2023-10-03 22:41:34 - Started processing district Damoh
+2023-10-03 22:41:53 - Finished processing district Damoh
+2023-10-03 22:41:53 - Started processing district Datia
+2023-10-03 22:42:04 - Finished processing district Datia
+2023-10-03 22:42:04 - Started processing district Dewas
+2023-10-03 22:42:33 - Finished processing district Dewas
+2023-10-03 22:42:33 - Started processing district Dhar
+2023-10-03 22:42:54 - Finished processing district Dhar
+2023-10-03 22:42:54 - Started processing district Dindori
+2023-10-03 22:43:08 - Finished processing district Dindori
+2023-10-03 22:43:08 - Started processing district East Nimar
+2023-10-03 22:43:27 - Finished processing district East Nimar
+2023-10-03 22:43:27 - Started processing district Guna
+2023-10-03 22:43:48 - Finished processing district Guna
+2023-10-03 22:43:48 - Started processing district Gwalior
+2023-10-03 22:44:03 - Finished processing district Gwalior
+2023-10-03 22:44:03 - Started processing district Harda
+2023-10-03 22:44:17 - Finished processing district Harda
+2023-10-03 22:44:17 - Started processing district Hoshangabad
+2023-10-03 22:44:32 - Finished processing district Hoshangabad
+2023-10-03 22:44:32 - Started processing district Indore
+2023-10-03 22:44:58 - Finished processing district Indore
+2023-10-03 22:44:58 - Started processing district Jabalpur
+2023-10-03 22:45:24 - Finished processing district Jabalpur
+2023-10-03 22:45:24 - Started processing district Jhabua
+2023-10-03 22:45:39 - Finished processing district Jhabua
+2023-10-03 22:45:39 - Started processing district Katni
+2023-10-03 22:45:54 - Finished processing district Katni
+2023-10-03 22:45:54 - Started processing district Mandla
+2023-10-03 22:46:19 - Finished processing district Mandla
+2023-10-03 22:46:19 - Started processing district Mandsaur
+2023-10-03 22:46:51 - Finished processing district Mandsaur
+2023-10-03 22:46:51 - Started processing district Morena
+2023-10-03 22:47:02 - Finished processing district Morena
+2023-10-03 22:47:02 - Started processing district Narsimhapur
+2023-10-03 22:47:18 - Finished processing district Narsimhapur
+2023-10-03 22:47:18 - Started processing district Neemuch
+2023-10-03 22:47:42 - Finished processing district Neemuch
+2023-10-03 22:47:42 - Started processing district Panna
+2023-10-03 22:48:06 - Finished processing district Panna
+2023-10-03 22:48:06 - Started processing district Raisen
+2023-10-03 22:48:29 - Finished processing district Raisen
+2023-10-03 22:48:29 - Started processing district Rajgarh
+2023-10-03 22:49:34 - Finished processing district Rajgarh
+2023-10-03 22:49:34 - Started processing district Ratlam
+2023-10-03 22:50:41 - Finished processing district Ratlam
+2023-10-03 22:50:41 - Started processing district Rewa
+2023-10-03 22:51:07 - Finished processing district Rewa
+2023-10-03 22:51:07 - Started processing district Sagar
+2023-10-03 22:51:39 - Finished processing district Sagar
+2023-10-03 22:51:39 - Started processing district Satna
+2023-10-03 22:52:11 - Finished processing district Satna
+2023-10-03 22:52:11 - Started processing district Sehore
+2023-10-03 22:52:30 - Finished processing district Sehore
+2023-10-03 22:52:30 - Started processing district Seoni
+2023-10-03 22:53:03 - Finished processing district Seoni
+2023-10-03 22:53:03 - Started processing district Shahdol
+2023-10-03 22:53:25 - Finished processing district Shahdol
+2023-10-03 22:53:25 - Started processing district Shajapur
+2023-10-03 22:53:42 - Finished processing district Shajapur
+2023-10-03 22:53:42 - Started processing district Sheopur
+2023-10-03 22:54:00 - Finished processing district Sheopur
+2023-10-03 22:54:00 - Started processing district Shivpuri
+2023-10-03 22:54:25 - Finished processing district Shivpuri
+2023-10-03 22:54:25 - Started processing district Sidhi
+2023-10-03 22:54:54 - Finished processing district Sidhi
+2023-10-03 22:54:54 - Started processing district Singrauli
+2023-10-03 22:55:19 - Finished processing district Singrauli
+2023-10-03 22:55:19 - Started processing district Tikamgarh
+2023-10-03 22:55:43 - Finished processing district Tikamgarh
+2023-10-03 22:55:43 - Started processing district Ujjain
+2023-10-03 22:56:26 - Finished processing district Ujjain
+2023-10-03 22:56:26 - Started processing district Umaria
+2023-10-03 22:56:40 - Finished processing district Umaria
+2023-10-03 22:56:40 - Started processing district Vidisha
+2023-10-03 22:57:02 - Finished processing district Vidisha
+2023-10-03 22:57:02 - Started processing district West Nimar
+2023-10-03 22:57:24 - Finished processing district West Nimar
+2023-10-03 22:57:24 - Finished processing state Madhya Pradesh
+2023-10-03 22:57:24 - Started processing state Maharashtra
+2023-10-03 22:57:27 - Started processing district Amravati
+2023-10-03 22:58:20 - Finished processing district Amravati
+2023-10-03 22:58:20 - Started processing district Aurangabad
+2023-10-03 22:58:40 - Finished processing district Aurangabad
+2023-10-03 22:58:40 - Started processing district Beed
+2023-10-03 22:59:13 - Finished processing district Beed
+2023-10-03 22:59:13 - Started processing district Bhandara
+2023-10-03 22:59:40 - Finished processing district Bhandara
+2023-10-03 22:59:40 - Started processing district Buldana
+2023-10-03 23:00:20 - Finished processing district Buldana
+2023-10-03 23:00:20 - Started processing district Chandrapur
+2023-10-03 23:01:08 - Finished processing district Chandrapur
+2023-10-03 23:01:08 - Started processing district Dhule
+2023-10-03 23:01:42 - Finished processing district Dhule
+2023-10-03 23:01:42 - Started processing district Gadchiroli
+2023-10-03 23:02:14 - Finished processing district Gadchiroli
+2023-10-03 23:02:14 - Started processing district Gondia
+2023-10-03 23:02:46 - Finished processing district Gondia
+2023-10-03 23:02:46 - Started processing district Hingoli
+2023-10-03 23:03:05 - Finished processing district Hingoli
+2023-10-03 23:03:05 - Started processing district Jalgaon
+2023-10-03 23:03:45 - Finished processing district Jalgaon
+2023-10-03 23:03:45 - Started processing district Jalna
+2023-10-03 23:04:23 - Finished processing district Jalna
+2023-10-03 23:04:23 - Started processing district Kolhapur
+2023-10-03 23:04:49 - Finished processing district Kolhapur
+2023-10-03 23:04:49 - Started processing district Latur
+2023-10-03 23:05:22 - Finished processing district Latur
+2023-10-03 23:05:22 - Started processing district Mumbai City
+2023-10-03 23:05:33 - Finished processing district Mumbai City
+2023-10-03 23:05:33 - Started processing district Mumbai Suburban
+2023-10-03 23:05:37 - Finished processing district Mumbai Suburban
+2023-10-03 23:05:37 - Started processing district Nagpur
+2023-10-03 23:06:25 - Finished processing district Nagpur
+2023-10-03 23:06:25 - Started processing district Nanded
+2023-10-03 23:07:01 - Finished processing district Nanded
+2023-10-03 23:07:01 - Started processing district Nandurbar
+2023-10-03 23:07:20 - Finished processing district Nandurbar
+2023-10-03 23:07:20 - Started processing district Nashik
+2023-10-03 23:08:08 - Finished processing district Nashik
+2023-10-03 23:08:08 - Started processing district Osmanabad
+2023-10-03 23:08:35 - Finished processing district Osmanabad
+2023-10-03 23:08:35 - Started processing district Palghar
+2023-10-03 23:08:50 - Finished processing district Palghar
+2023-10-03 23:08:50 - Started processing district Parbhani
+2023-10-03 23:14:47 - Resuming from year 2015, state Maharashtra, district Parbhani
+2023-10-03 23:14:47 - Started processing year 2015
+2023-10-03 23:14:50 - Started processing state Maharashtra
+2023-10-03 23:14:53 - Started processing district Parbhani
+2023-10-03 23:15:13 - Finished processing district Parbhani
+2023-10-03 23:15:13 - Started processing district Pune
+2023-10-03 23:15:43 - Finished processing district Pune
+2023-10-03 23:15:43 - Started processing district Raigad
+2023-10-03 23:16:10 - Finished processing district Raigad
+2023-10-03 23:16:10 - Started processing district Ratnagiri
+2023-10-03 23:16:57 - Finished processing district Ratnagiri
+2023-10-03 23:16:57 - Started processing district Sangli
+2023-10-03 23:17:19 - Finished processing district Sangli
+2023-10-03 23:17:19 - Started processing district Satara
+2023-10-03 23:17:56 - Finished processing district Satara
+2023-10-03 23:17:56 - Started processing district Sindudurg
+2023-10-03 23:18:34 - Finished processing district Sindudurg
+2023-10-03 23:18:34 - Started processing district Solapur
+2023-10-03 23:19:16 - Finished processing district Solapur
+2023-10-03 23:19:16 - Started processing district Thane
+2023-10-03 23:19:34 - Finished processing district Thane
+2023-10-03 23:19:34 - Started processing district Wardha
+2023-10-03 23:20:11 - Finished processing district Wardha
+2023-10-03 23:20:11 - Started processing district Washim
+2023-10-03 23:20:36 - Finished processing district Washim
+2023-10-03 23:20:36 - Started processing district Yavatmal
+2023-10-03 23:21:21 - Finished processing district Yavatmal
+2023-10-03 23:21:21 - Finished processing state Maharashtra
+2023-10-03 23:21:21 - Started processing state Meghalaya
+2023-10-03 23:21:21 - Started processing district East Garo Hills
+2023-10-03 23:21:32 - Finished processing district East Garo Hills
+2023-10-03 23:21:32 - Started processing district East Jaintia Hills
+2023-10-03 23:21:38 - Finished processing district East Jaintia Hills
+2023-10-03 23:21:38 - Started processing district East Khasi Hills
+2023-10-03 23:21:44 - Finished processing district East Khasi Hills
+2023-10-03 23:21:44 - Started processing district Ri Bhoi
+2023-10-03 23:21:49 - Finished processing district Ri Bhoi
+2023-10-03 23:21:49 - Started processing district West Garo Hills
+2023-10-03 23:21:57 - Finished processing district West Garo Hills
+2023-10-03 23:21:57 - Started processing district West Khasi Hills
+2023-10-03 23:22:02 - Finished processing district West Khasi Hills
+2023-10-03 23:22:02 - Finished processing state Meghalaya
+2023-10-03 23:22:02 - Started processing state Nagaland
+2023-10-03 23:22:03 - Started processing district Dimapur
+2023-10-03 23:22:12 - Finished processing district Dimapur
+2023-10-03 23:22:12 - Started processing district Kohima
+2023-10-03 23:22:20 - Finished processing district Kohima
+2023-10-03 23:22:20 - Started processing district Wokha
+2023-10-03 23:22:27 - Finished processing district Wokha
+2023-10-03 23:22:27 - Finished processing state Nagaland
+2023-10-03 23:22:27 - Started processing state Odisha
+2023-10-03 23:22:29 - Started processing district Anugul
+2023-10-03 23:23:09 - Finished processing district Anugul
+2023-10-03 23:23:09 - Started processing district Balangir
+2023-10-03 23:23:54 - Finished processing district Balangir
+2023-10-03 23:23:54 - Started processing district Baleshwar
+2023-10-03 23:24:08 - Finished processing district Baleshwar
+2023-10-03 23:24:08 - Started processing district Bargarh
+2023-10-03 23:24:59 - Finished processing district Bargarh
+2023-10-03 23:24:59 - Started processing district Baudh
+2023-10-03 23:25:35 - Finished processing district Baudh
+2023-10-03 23:25:35 - Started processing district Bhadrak
+2023-10-03 23:25:48 - Finished processing district Bhadrak
+2023-10-03 23:25:48 - Started processing district Cuttack
+2023-10-03 23:26:38 - Finished processing district Cuttack
+2023-10-03 23:26:38 - Started processing district Debagarh
+2023-10-03 23:26:49 - Finished processing district Debagarh
+2023-10-03 23:26:49 - Started processing district Dhenkanal
+2023-10-03 23:27:26 - Finished processing district Dhenkanal
+2023-10-03 23:27:26 - Started processing district Gajapati
+2023-10-03 23:27:56 - Finished processing district Gajapati
+2023-10-03 23:27:56 - Started processing district Ganjam
+2023-10-03 23:28:58 - Finished processing district Ganjam
+2023-10-03 23:28:58 - Started processing district Jagatsinghapur
+2023-10-03 23:29:15 - Finished processing district Jagatsinghapur
+2023-10-03 23:29:15 - Started processing district Jajapur
+2023-10-03 23:29:57 - Finished processing district Jajapur
+2023-10-03 23:29:57 - Started processing district Jharsuguda
+2023-10-03 23:30:11 - Finished processing district Jharsuguda
+2023-10-03 23:30:11 - Started processing district Kalahandi
+2023-10-03 23:30:47 - Finished processing district Kalahandi
+2023-10-03 23:30:47 - Started processing district Kendrapara
+2023-10-03 23:31:11 - Finished processing district Kendrapara
+2023-10-03 23:31:11 - Started processing district Kendujhar
+2023-10-03 23:32:09 - Finished processing district Kendujhar
+2023-10-03 23:32:09 - Started processing district Khordha
+2023-10-03 23:33:01 - Finished processing district Khordha
+2023-10-03 23:33:01 - Started processing district Koraput
+2023-10-03 23:33:48 - Finished processing district Koraput
+2023-10-03 23:33:48 - Started processing district Malkangiri
+2023-10-03 23:34:13 - Finished processing district Malkangiri
+2023-10-03 23:34:13 - Started processing district Mayurbhanj
+2023-10-03 23:35:21 - Finished processing district Mayurbhanj
+2023-10-03 23:35:21 - Started processing district Nabarangapur
+2023-10-03 23:35:47 - Finished processing district Nabarangapur
+2023-10-03 23:35:47 - Started processing district Nayagarh
+2023-10-03 23:36:21 - Finished processing district Nayagarh
+2023-10-03 23:36:21 - Started processing district Nuapada
+2023-10-03 23:36:50 - Finished processing district Nuapada
+2023-10-03 23:36:50 - Started processing district Puri
+2023-10-03 23:37:43 - Finished processing district Puri
+2023-10-03 23:37:43 - Started processing district Rayagada
+2023-10-03 23:38:03 - Finished processing district Rayagada
+2023-10-03 23:38:03 - Started processing district Sambalpur
+2023-10-03 23:38:50 - Finished processing district Sambalpur
+2023-10-03 23:38:50 - Started processing district Sonapur
+2023-10-03 23:39:24 - Finished processing district Sonapur
+2023-10-03 23:39:24 - Started processing district Sundargarh
+2023-10-03 23:40:27 - Finished processing district Sundargarh
+2023-10-03 23:40:27 - Finished processing state Odisha
+2023-10-03 23:40:27 - Started processing state Puducherry
+2023-10-03 23:40:28 - Started processing district Puducherry
+2023-10-03 23:40:40 - Finished processing district Puducherry
+2023-10-03 23:40:40 - Started processing district Yanam
+2023-10-03 23:40:48 - Finished processing district Yanam
+2023-10-03 23:40:48 - Finished processing state Puducherry
+2023-10-03 23:40:48 - Started processing state Punjab
+2023-10-03 23:40:51 - Started processing district Amritsar
+2023-10-03 23:41:10 - Finished processing district Amritsar
+2023-10-03 23:41:10 - Started processing district Barnala
+2023-10-03 23:41:20 - Finished processing district Barnala
+2023-10-03 23:41:20 - Started processing district Bathinda
+2023-10-03 23:42:11 - Finished processing district Bathinda
+2023-10-03 23:42:11 - Started processing district Faridkot
+2023-10-03 23:42:44 - Finished processing district Faridkot
+2023-10-03 23:42:44 - Started processing district Fatehgarh Sahib
+2023-10-03 23:43:10 - Finished processing district Fatehgarh Sahib
+2023-10-03 23:43:10 - Started processing district Fazilka
+2023-10-03 23:43:42 - Finished processing district Fazilka
+2023-10-03 23:43:42 - Started processing district Ferozepur
+2023-10-03 23:44:07 - Finished processing district Ferozepur
+2023-10-03 23:44:07 - Started processing district Gurdaspur
+2023-10-03 23:45:22 - Finished processing district Gurdaspur
+2023-10-03 23:45:22 - Started processing district Hoshiarpur
+2023-10-03 23:46:49 - Finished processing district Hoshiarpur
+2023-10-03 23:46:49 - Started processing district Jalandhar
+2023-10-03 23:47:40 - Finished processing district Jalandhar
+2023-10-03 23:47:40 - Started processing district Kapurthala
+2023-10-03 23:48:13 - Finished processing district Kapurthala
+2023-10-03 23:48:13 - Started processing district Ludhiana
