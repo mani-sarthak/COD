@@ -12,8 +12,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 path = "/Users/manisarthak/Library/CloudStorage/OneDrive-IITDelhi/ACADEMICS/Semester5/COD/webScrapping/timeSeriesData/"
 
 
-def readFromExcel(state, district, year, season, directory_path = "/Users/manisarthak/Desktop/CGWB/"):
+def readFromExcel(state, district, year, season, directory_path = "/Users/manisarthak/Desktop/CGWB/yearly/"):
+
     excel_path = directory_path + f"{year}/{state}/{district}/{district}_{state}_{year}_{season}.xlsx"
+    print(excel_path)
     scam = []
     try:
         df = pd.read_excel(excel_path, header=None)
@@ -147,151 +149,152 @@ def writeInCSV(data, csv_file):
 
 
 
-# # say calculating for bhilwara
-# state = 'Rajasthan'
-# district = 'Bhilwara'
-# data = mergeThroughYears(state, district, 2010, 2011)
-# data = modifyDataForCSV(data)
-# writeInCSV(data, path+f"{state}_{district}.csv")
+
+# say calculating for bhilwara
+state = 'Madhya Pradesh'
+district = 'Guna'
+data = mergeThroughYears(state, district, 1994, 2023)
+data = modifyDataForCSV(data)
+writeInCSV(data, path+f"{state}_{district}.csv")
 
 
 
 
-def getStates(year):
-    url = 'https://indiawris.gov.in/gwlbusinessdata'
+# def getStates(year):
+#     url = 'https://indiawris.gov.in/gwlbusinessdata'
 
-    headers = {
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'en-GB,en;q=0.9',
-        'Access-Control-Allow-Methods': 'GET,POST',
-        'Access-Control-Allow-Origin': '*',
-        'Connection': 'keep-alive',
-        'Content-Type': 'application/json',
-        'Origin': 'https://indiawris.gov.in',
-        'Referer': 'https://indiawris.gov.in/wdo/',
-        'Sec-Fetch-Dest': 'empty',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'same-origin',
-        'Sec-GPC': '1',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
-        'sec-ch-ua': '"Brave";v="117", "Not;A=Brand";v="8", "Chromium";v="117"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"macOS"',
-    }
-
-
-
-    data = {"stnVal":{"qry":f"select metadata.state_name, count(distinct(metadata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = \'CGWB\' and to_char(businessdata.date, \'yyyy-mm\') between \'{year}-01\' and \'{year}-12\'  group by metadata.state_name order by metadata.state_name"}}
-
-    response = requests.post(url, json=data, headers=headers, verify=False)
-
-    states = []
-    if response.status_code == 200:
-        response = response.json()
-        for state_name in response:
-            states.append(state_name[0])
-    return states
+#     headers = {
+#         'Accept': 'application/json, text/plain, */*',
+#         'Accept-Language': 'en-GB,en;q=0.9',
+#         'Access-Control-Allow-Methods': 'GET,POST',
+#         'Access-Control-Allow-Origin': '*',
+#         'Connection': 'keep-alive',
+#         'Content-Type': 'application/json',
+#         'Origin': 'https://indiawris.gov.in',
+#         'Referer': 'https://indiawris.gov.in/wdo/',
+#         'Sec-Fetch-Dest': 'empty',
+#         'Sec-Fetch-Mode': 'cors',
+#         'Sec-Fetch-Site': 'same-origin',
+#         'Sec-GPC': '1',
+#         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
+#         'sec-ch-ua': '"Brave";v="117", "Not;A=Brand";v="8", "Chromium";v="117"',
+#         'sec-ch-ua-mobile': '?0',
+#         'sec-ch-ua-platform': '"macOS"',
+#     }
 
 
-def getDistricts(state_name, year):
-    url = 'https://indiawris.gov.in/gwlbusinessdata'
 
-    headers = {
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'en-GB,en;q=0.9',
-        'Access-Control-Allow-Methods': 'GET,POST',
-        'Access-Control-Allow-Origin': '*',
-        'Connection': 'keep-alive',
-        'Content-Type': 'application/json',
-        'Origin': 'https://indiawris.gov.in',
-        'Referer': 'https://indiawris.gov.in/wdo/',
-        'Sec-Fetch-Dest': 'empty',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'same-origin',
-        'Sec-GPC': '1',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
-        'sec-ch-ua': '"Brave";v="117", "Not;A=Brand";v="8", "Chromium";v="117"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"macOS"',
-    }
+#     data = {"stnVal":{"qry":f"select metadata.state_name, count(distinct(metadata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = \'CGWB\' and to_char(businessdata.date, \'yyyy-mm\') between \'{year}-01\' and \'{year}-12\'  group by metadata.state_name order by metadata.state_name"}}
+
+#     response = requests.post(url, json=data, headers=headers, verify=False)
+
+#     states = []
+#     if response.status_code == 200:
+#         response = response.json()
+#         for state_name in response:
+#             states.append(state_name[0])
+#     return states
+
+
+# def getDistricts(state_name, year):
+#     url = 'https://indiawris.gov.in/gwlbusinessdata'
+
+#     headers = {
+#         'Accept': 'application/json, text/plain, */*',
+#         'Accept-Language': 'en-GB,en;q=0.9',
+#         'Access-Control-Allow-Methods': 'GET,POST',
+#         'Access-Control-Allow-Origin': '*',
+#         'Connection': 'keep-alive',
+#         'Content-Type': 'application/json',
+#         'Origin': 'https://indiawris.gov.in',
+#         'Referer': 'https://indiawris.gov.in/wdo/',
+#         'Sec-Fetch-Dest': 'empty',
+#         'Sec-Fetch-Mode': 'cors',
+#         'Sec-Fetch-Site': 'same-origin',
+#         'Sec-GPC': '1',
+#         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
+#         'sec-ch-ua': '"Brave";v="117", "Not;A=Brand";v="8", "Chromium";v="117"',
+#         'sec-ch-ua-mobile': '?0',
+#         'sec-ch-ua-platform': '"macOS"',
+#     }
     
     
-    data = {
-            "stnVal": {
-                "qry": f"select metadata.district_name,count(distinct(businessdata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = 'CGWB' and metadata.state_name = '{state_name}' and to_char(businessdata.date, 'yyyy') between '{year}' and '{year}'  group by district_name"
-            }
-        }
+#     data = {
+#             "stnVal": {
+#                 "qry": f"select metadata.district_name,count(distinct(businessdata.station_code)), coalesce(ROUND(AVG(businessdata.level)::numeric,2), 0) from public.groundwater_station as metadata INNER JOIN public.gwl_timeseries_data as businessdata on metadata.station_code = businessdata.station_code where 1=1  and metadata.agency_name = 'CGWB' and metadata.state_name = '{state_name}' and to_char(businessdata.date, 'yyyy') between '{year}' and '{year}'  group by district_name"
+#             }
+#         }
     
     
-    response = requests.post(url, json=data, headers=headers, verify=False)
-    if response.status_code == 200:
-        response = response.json()
-        # print(response)
-    else:
-        print(state_name, "couldn't be found !")
+#     response = requests.post(url, json=data, headers=headers, verify=False)
+#     if response.status_code == 200:
+#         response = response.json()
+#         # print(response)
+#     else:
+#         print(state_name, "couldn't be found !")
         
-    districts = [x[0] for x in response]
-    return districts
+#     districts = [x[0] for x in response]
+#     return districts
 
-progress_file = path + "progress.txt"
-log_file = path + "log.txt"
-last_state = None
-last_district = None
-
-
-# Function to log timestamps and calculate time taken
-def log_timestamp(message):
-    timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
-    with open(log_file, "a") as log:
-        log.write(f"{timestamp} - {message}\n")
+# progress_file = path + "progress.txt"
+# log_file = path + "log.txt"
+# last_state = None
+# last_district = None
 
 
-
-if os.path.isfile(progress_file):
-    with open(progress_file, 'r') as f:
-        last_state = f.readline().strip()
-        last_district = f.readline().strip()
-    log_timestamp(f"Resuming from district {last_district}, state {last_state}")
+# # Function to log timestamps and calculate time taken
+# def log_timestamp(message):
+#     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+#     with open(log_file, "a") as log:
+#         log.write(f"{timestamp} - {message}\n")
 
 
 
-current_year = 2023
-# states = getStates(current_year)
-states = ['Madhya Pradesh']
-d = set()
-# print(states)
-# if last_state:
-#     states = states[states.index(last_state):]
-for state in states:
-    # if state != 'Rajasthan':
-    #     continue
-    # districts = getDistricts(state, current_year)
-    districts = ['Guna', 'Khandwa']
-    # districts = ['Dumka', 'Ramgarh']
-    # print(districts)
-    # if last_district:
-    #     districts = districts[districts.index(last_district):]
-    for district in districts:
-        # if district != 'Bhilwara':
-        #     continue
-        d.add((state, district))
-        try:
-            data = mergeThroughYears(state, district, 2010, 2021)
-            data = modifyDataForCSV(data)
-            with open(progress_file, 'w') as f:
-                f.write(state + '\n')
-                f.write(district + '\n')
-            log_timestamp(f"Started processing district {district} of state {state}")
-            writeInCSV(data, path+f"{state}_{district}.csv")
-            # d.clear((state, district))
-        except Exception as e:
-            print(e)
-            print("error in writing csv file for district ", district, " of state ", state)
-            # print(data)
-            break
-print("districts left to be processed\n\n\n\n\n")
-for k in d:
-    print(k)        
+# if os.path.isfile(progress_file):
+#     with open(progress_file, 'r') as f:
+#         last_state = f.readline().strip()
+#         last_district = f.readline().strip()
+#     log_timestamp(f"Resuming from district {last_district}, state {last_state}")
+
+
+
+# current_year = 2023
+# # states = getStates(current_year)
+# states = ['Madhya Pradesh']
+# d = set()
+# # print(states)
+# # if last_state:
+# #     states = states[states.index(last_state):]
+# for state in states:
+#     # if state != 'Rajasthan':
+#     #     continue
+#     # districts = getDistricts(state, current_year)
+#     districts = ['Guna', 'Khandwa']
+#     # districts = ['Dumka', 'Ramgarh']
+#     # print(districts)
+#     # if last_district:
+#     #     districts = districts[districts.index(last_district):]
+#     for district in districts:
+#         # if district != 'Bhilwara':
+#         #     continue
+#         d.add((state, district))
+#         try:
+#             data = mergeThroughYears(state, district, 2010, 2021)
+#             data = modifyDataForCSV(data)
+#             with open(progress_file, 'w') as f:
+#                 f.write(state + '\n')
+#                 f.write(district + '\n')
+#             log_timestamp(f"Started processing district {district} of state {state}")
+#             writeInCSV(data, path+f"{state}_{district}.csv")
+#             # d.clear((state, district))
+#         except Exception as e:
+#             print(e)
+#             print("error in writing csv file for district ", district, " of state ", state)
+#             # print(data)
+#             break
+# print("districts left to be processed\n\n\n\n\n")
+# for k in d:
+#     print(k)        
             
 
 

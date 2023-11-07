@@ -41,3 +41,6 @@
 2023-10-03 16:45:26 - Resuming from district Khandwa, state Madhya Pradesh
 2023-10-03 16:45:26 - Started processing district Guna of state Madhya Pradesh
 2023-10-03 16:45:26 - Started processing district Khandwa of state Madhya Pradesh
+2023-10-13 14:16:04 - Resuming from district Khandwa, state Madhya Pradesh
+2023-10-13 14:16:04 - Started processing district Guna of state Madhya Pradesh
+2023-10-13 14:16:04 - Started processing district Khandwa of state Madhya Pradesh

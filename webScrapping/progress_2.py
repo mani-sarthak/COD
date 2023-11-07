@@ -22,7 +22,7 @@ def log_timestamp(message):
 progress_file = "progress.txt"
 
 # Initialize variables to store progress information
-last_year = 2015
+last_year = 2005
 last_state = None
 last_district = None
 
@@ -38,7 +38,7 @@ if os.path.isfile(progress_file):
 start_time = time.perf_counter()
 
 # Loop through years
-for year in range(last_year, 2000, -1):
+for year in range(last_year, 2004, -1):
     log_timestamp(f"Started processing year {year}")
     dp_year = directory_path + str(year) + '/'
 
