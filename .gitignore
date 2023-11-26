@@ -1,1 +1,3 @@
 /notes/*
+/addStates/2023/*
+!addStates/addState.ipynb
